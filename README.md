@@ -1,7 +1,5 @@
 # NLP-Data-Cleaning
 
-# NLP-Data-Cleaning
-
 In this notebook I will demonstrate how to pre-process and clean text data for Natural Lanuage Processing applications and how to perform Sentiment Analysis on the data.
 
 Pre-processing and data cleaning are crucial steps in any NLP (Natural Language Processing) project. These steps help to ensure that the data used in the project is of high quality, and ready to be used for further analysis and modeling. The following are the common pre-processing and data cleaning steps in an NLP project:
